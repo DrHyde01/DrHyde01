@@ -3,11 +3,15 @@
 ### Bonjour 👋
 
 
-:bust_in_silhouette: I’m Stephane, frontend developper with a crush for UI/UX :art:  
-:computer: HTML, CSS, SCSS, Bootstrap, Tailwind, JS, Vue.js  
-:eyeglasses: Autodidact and curious person looking for new knowledges / challenges !   
+:bust_in_silhouette: I’m **Stephane**, frontend developper with a crush for UI/UX :art:  
   
-:mega: Now available for many projects, and for jobs anywhere in France ! 
+:computer: HTML, CSS, SCSS, Bootstrap, Tailwind, JS, Vue.js    
+  
+:eyeglasses: **Autodidact and curious** person looking for new knowledges / challenges !     
+  
+:mega: Now **available for many projects**, and for jobs anywhere in France !   
+
+***
 
   
 
