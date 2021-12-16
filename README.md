@@ -11,6 +11,9 @@
 
   
 
-[![DrHyde01's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrHyde01&show_icons=true&theme=blueberry)](https://github.com/DrHyde01/github-readme-stats)
+[![DrHyde01's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrHyde01&show_icons=true&theme=buefy)](https://github.com/DrHyde01/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrHyde01&layout=compact)](https://github.com/DrHyde01/github-readme-stats)
+
  
  </div>
